@@ -39,10 +39,6 @@
         <strong>Currently Learning:</strong> Python and Ollama (LLM)<br/>
         <strong>Goal:</strong> Collaborate on projects and improve through consistency
       </p>
-      <p>
-        <strong>Work:</strong> siddharth.shah030@gmail.com<br/>
-        <strong>Personal:</strong> siddharth.shah3015@gmail.com
-      </p>
     </td>
     <td width="32%" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/SiddharthShah30/SiddharthShah30/main/assets/pc.jpg" width="260" alt="retro pc" />
@@ -55,13 +51,12 @@
 <h2 align="center"><img src="https://img.icons8.com/ios-filled/20/ffffff/processor.png" width="16" alt="tech icon"/> <em>Technologies</em></h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&logoWidth=28" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white&logoWidth=28" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white&logoWidth=28" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white&logoWidth=28" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white&logoWidth=28" alt="Git" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white&logoWidth=28" alt="Ollama" />
 </p>
 
 <br/>
@@ -78,8 +73,9 @@
 <h2 align="center"><img src="https://img.icons8.com/ios-filled/20/ffffff/source-code.png" width="16" alt="languages icon"/> <em>Most Used Languages</em></h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthShah30&layout=donut&theme=tokyonight&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=2b2b2b" height="220" alt="Most Used Languages Donut" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SiddharthShah30&theme=github_dark" height="220" alt="Detailed Language Breakdown" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SiddharthShah30&theme=github_dark" width="100%" alt="Detailed Language Breakdown" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthShah30&layout=donut&theme=tokyonight&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=2b2b2b" height="260" alt="Most Used Languages Donut" />
 </div>
 
 <br/>
