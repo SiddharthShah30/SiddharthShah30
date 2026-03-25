@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:000000,100:1a1a1a&text=Siddharth%20Shah&fontColor=ffffff&fontSize=54&animation=fadeIn&desc=Code%20.%20Learn%20.%20Build&descAlignY=73" width="100%" alt="profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:000000,100:1a1a1a&text=Siddharth%20Shah&fontColor=ffffff&fontSize=50&font=Playfair%20Display&animation=fadeIn&desc=Code%20.%20Learn%20.%20Build&descAlignY=73" width="100%" alt="profile banner"/>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1100&color=FFFFFF&center=true&vCenter=true&width=950&lines=Python+Developer+%7C+Web+Apps+%7C+AI+Learner;Currently+learning+Python+and+Ollama+(LLM);Open+to+collaborations+and+real+projects" alt="animated subtitle" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=500&size=21&pause=1100&color=FFFFFF&center=true&vCenter=true&width=950&lines=Python+Developer+%7C+Web+Apps+%7C+AI+Learner;Currently+learning+Python+and+Ollama+(LLM);Open+to+collaborations+and+real+projects" alt="animated subtitle" />
 </p>
 
 <p>
@@ -25,7 +25,7 @@
 
 <br/>
 
-<h2 align="center"><em>About Me</em></h2>
+<h2 align="center"><img src="https://img.icons8.com/ios-filled/20/ffffff/user.png" width="16" alt="about icon"/> <em>About Me</em></h2>
 
 <table align="center" width="100%">
   <tr>
@@ -52,7 +52,7 @@
 
 <br/>
 
-<h2 align="center"><em>Technologies</em></h2>
+<h2 align="center"><img src="https://img.icons8.com/ios-filled/20/ffffff/processor.png" width="16" alt="tech icon"/> <em>Technologies</em></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -66,7 +66,7 @@
 
 <br/>
 
-<h2 align="center"><em>Statistics</em></h2>
+<h2 align="center"><img src="https://img.icons8.com/ios-filled/20/ffffff/combo-chart--v1.png" width="16" alt="stats icon"/> <em>Statistics</em></h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SiddharthShah30&show_icons=true&theme=tokyonight&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=2b2b2b" height="170" alt="GitHub Stats" />
@@ -77,7 +77,7 @@
 
 <br/>
 
-<h2 align="center"><em>Contribution Graph</em></h2>
+<h2 align="center"><img src="https://img.icons8.com/ios-filled/20/ffffff/activity-history.png" width="16" alt="graph icon"/> <em>Contribution Graph</em></h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiddharthShah30&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%" alt="Contribution Graph" />
