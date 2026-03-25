@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:000000,100:1a1a1a&text=Siddharth%20Shah&fontColor=ffffff&fontSize=50&font=Playfair%20Display&animation=fadeIn&desc=Code%20.%20Learn%20.%20Build&descAlignY=73" width="100%" alt="profile banner"/>
+<img src="https://raw.githubusercontent.com/SiddharthShah30/SiddharthShah30/main/assets/header.jpg" width="100%" alt="profile banner"/>
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=500&size=21&pause=1100&color=FFFFFF&center=true&vCenter=true&width=950&lines=Python+Developer+%7C+Web+Apps+%7C+AI+Learner;Currently+learning+Python+and+Ollama+(LLM);Open+to+collaborations+and+real+projects" alt="animated subtitle" />
 </p>
 
 <p>
-  <a href="https://github.com/SiddharthShah30" target="_blank">
+  <a href="https://github.com/SiddharthShah30">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.instagram.com/siddd.shah30/" target="_blank">
+  <a href="https://www.instagram.com/siddd.shah30/">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:siddharth.shah030@gmail.com">
