@@ -73,7 +73,7 @@
 <h2 align="center"><img src="https://img.icons8.com/ios-filled/20/ffffff/source-code.png" width="16" alt="languages icon"/> <em>Most Used Languages</em></h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthShah30&layout=compact&langs_count=10&theme=tokyonight&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=2b2b2b" width="100%" alt="Most Used Languages Percentage Bar Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthShah30&layout=compact&langs_count=10&theme=tokyonight&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=2b2b2b" height="170" alt="Most Used Languages Percentage Bar Graph" />
 </div>
 
 <br/>
