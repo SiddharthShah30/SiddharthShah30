@@ -73,7 +73,7 @@
 <h2 align="center"><img src="https://img.icons8.com/ios-filled/20/ffffff/source-code.png" width="16" alt="languages icon"/> <em>Most Used Languages</em></h2>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-language?username=SiddharthShah30&theme=github_dark&hide_border=true" height="70%" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthShah30&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" height="70%" alt="Most Used Languages" />
 </div>
 
 <br/>
