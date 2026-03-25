@@ -70,9 +70,16 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SiddharthShah30&show_icons=true&theme=tokyonight&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=2b2b2b" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthShah30&layout=compact&theme=tokyonight&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=2b2b2b" height="170" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=SiddharthShah30&theme=dark&background=000000&hide_border=false&border=2b2b2b&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=SiddharthShah30&theme=dark&background=000000&hide_border=false&border=2b2b2b&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&currStreakLabel=ffffff" height="170" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<h2 align="center"><img src="https://img.icons8.com/ios-filled/20/ffffff/source-code.png" width="16" alt="languages icon"/> <em>Most Used Languages</em></h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthShah30&layout=donut&theme=tokyonight&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=2b2b2b" height="220" alt="Most Used Languages Donut" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SiddharthShah30&theme=github_dark" height="220" alt="Detailed Language Breakdown" />
 </div>
 
 <br/>
