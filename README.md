@@ -1,10 +1,13 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SiddharthShah30/SiddharthShah30/main/assets/header.jpg" width="100%" alt="profile banner"/>
+<img src="./assets/header.jpg" width="100%" alt="Siddharth Shah profile banner"/>
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=500&size=21&pause=1100&color=FFFFFF&center=true&vCenter=true&width=950&lines=Python+Developer+%7C+Web+Apps+%7C+AI+Learner;Currently+learning+Python+and+Ollama+(LLM);Open+to+collaborations+and+real+projects" alt="animated subtitle" />
 </p>
+
+<h1>Siddharth Shah</h1>
+<p><strong>Python Developer</strong> • <strong>Web App Builder</strong> • <strong>AI Learner</strong></p>
 
 <p>
   <a href="https://github.com/SiddharthShah30">
@@ -31,20 +34,28 @@
   <tr>
     <td width="68%" valign="top">
       <p>
-        Hello there. I am <strong>Siddharth Shah</strong>, a developer focused on Python, web applications, and AI learning.
-        I enjoy building practical projects that improve my skills in real workflows and collaboration.
+        I am <strong>Siddharth Shah</strong>, a developer focused on Python, practical web applications, and AI learning.
+        I enjoy building useful projects that strengthen real-world problem solving and collaboration.
       </p>
       <p>
-        <strong>Focus:</strong> Python Development, Web Apps, LLM, AI<br/>
+        <strong>Focus:</strong> Python Development, Web Apps, LLMs, AI Tools<br/>
         <strong>Currently Learning:</strong> Python and Ollama (LLM)<br/>
-        <strong>Goal:</strong> Collaborate on projects and improve through consistency
+        <strong>Goal:</strong> Build consistently and collaborate on meaningful projects
       </p>
     </td>
     <td width="32%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/SiddharthShah30/SiddharthShah30/main/assets/pc.jpg" width="260" alt="retro pc" />
+      <img src="./assets/pc.jpg" width="260" alt="retro computer setup" />
     </td>
   </tr>
 </table>
+
+<br/>
+
+<h2 align="center"><img src="https://img.icons8.com/ios-filled/20/ffffff/layers.png" width="16" alt="highlights icon"/> <em>Quick Highlights</em></h2>
+
+<p align="center">
+  Clean code • Practical projects • Continuous learning • Collaboration-ready
+</p>
 
 <br/>
 
@@ -61,7 +72,7 @@
 
 <br/>
 
-<h2 align="center"><img src="https://img.icons8.com/ios-filled/20/ffffff/combo-chart--v1.png" width="16" alt="stats icon"/> <em>Statistics</em></h2>
+<h2 align="center"><img src="https://img.icons8.com/ios-filled/20/ffffff/combo-chart--v1.png" width="16" alt="stats icon"/> <em>GitHub Statistics</em></h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SiddharthShah30&show_icons=true&theme=tokyonight&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=2b2b2b" height="170" alt="GitHub Stats" />
@@ -82,4 +93,10 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiddharthShah30&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%" alt="Contribution Graph" />
+</p>
+
+<br/>
+
+<p align="center">
+  <i>Open to collaborations, internships, and project partnerships.</i>
 </p>
