@@ -75,7 +75,7 @@
 <h2 align="center"><img src="https://img.icons8.com/ios-filled/20/ffffff/combo-chart--v1.png" width="16" alt="stats icon"/> <em>GitHub Statistics</em></h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api?username=SiddharthShah30&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="170" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SiddharthShah30&theme=github_dark" height="170" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=SiddharthShah30&theme=dark&background=000000&hide_border=false&border=2b2b2b&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&currStreakLabel=ffffff" height="170" alt="GitHub Streak" />
 </div>
 
