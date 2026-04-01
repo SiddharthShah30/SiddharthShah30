@@ -3,11 +3,15 @@
 <img src="./assets/header.jpg" width="100%" alt="Siddharth Shah profile banner"/>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=500&size=21&pause=1100&color=FFFFFF&center=true&vCenter=true&width=950&lines=Python+Developer+%7C+Web+Apps+%7C+AI+Learner;Currently+learning+Python+and+Ollama+(LLM);Open+to+collaborations+and+real+projects" alt="animated subtitle" />
+  <img src="./assets/wave-header.svg" width="100%" alt="animated monochrome wave divider"/>
 </p>
 
 <h1>Siddharth Shah</h1>
-<p><strong>Python Developer</strong> • <strong>Web App Builder</strong> • <strong>AI Learner</strong></p>
+<p><strong>Python Developer</strong> • <strong>Web App Builder</strong> • <strong>AI Explorer</strong></p>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=500&size=18&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=Building+clean+things+in+black+and+white.;Practical+Python+%2B+Web+Projects.;Learning+LLMs+with+real+use-cases." alt="animated subtitle" />
+</p>
 
 <p>
   <a href="https://github.com/SiddharthShah30">
@@ -28,6 +32,13 @@
 
 <br/>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Aesthetic-Monochrome%20Black-000000?style=for-the-badge&logo=github&logoColor=white" alt="theme badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-111111?style=for-the-badge&logo=probot&logoColor=white" alt="status badge" />
+</p>
+
+<br/>
+
 <h2 align="center"><img src="https://img.icons8.com/ios-filled/20/ffffff/user.png" width="16" alt="about icon"/> <em>About Me</em></h2>
 
 <table align="center" width="100%">
@@ -35,12 +46,12 @@
     <td width="68%" valign="top">
       <p>
         I am <strong>Siddharth Shah</strong>, a developer focused on Python, practical web applications, and AI learning.
-        I enjoy building useful projects that strengthen real-world problem solving and collaboration.
+        I enjoy building useful projects that strengthen real-world problem solving, design clarity, and collaboration.
       </p>
       <p>
         <strong>Focus:</strong> Python Development, Web Apps, LLMs, AI Tools<br/>
         <strong>Currently Learning:</strong> Python and Ollama (LLM)<br/>
-        <strong>Goal:</strong> Build consistently and collaborate on meaningful projects
+        <strong>Working Style:</strong> Clean architecture, practical execution, continuous iteration
       </p>
     </td>
     <td width="32%" align="center" valign="middle">
@@ -54,7 +65,7 @@
 <h2 align="center"><img src="https://img.icons8.com/ios-filled/20/ffffff/layers.png" width="16" alt="highlights icon"/> <em>Quick Highlights</em></h2>
 
 <p align="center">
-  Clean code • Practical projects • Continuous learning • Collaboration-ready
+  Clean code • Product mindset • Monochrome identity • Collaboration-ready
 </p>
 
 <br/>
@@ -76,7 +87,7 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SiddharthShah30&theme=github_dark" height="170" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=SiddharthShah30&theme=dark&background=000000&hide_border=false&border=2b2b2b&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&currStreakLabel=ffffff" height="170" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SiddharthShah30&theme=github_dark&utcOffset=5.5" height="170" alt="Productive Time" />
 </div>
 
 <br/>
@@ -85,6 +96,7 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SiddharthShah30&theme=github_dark" height="170" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SiddharthShah30&theme=github_dark" height="170" alt="Most Commit Language" />
 </div>
 
 <br/>
@@ -97,6 +109,15 @@
 
 <br/>
 
+<h2 align="center"><img src="https://img.icons8.com/ios-filled/20/ffffff/overview-pages-3.png" width="16" alt="summary icon"/> <em>Profile Snapshot</em></h2>
+
 <p align="center">
-  <i>Open to collaborations, internships, and project partnerships.</i>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SiddharthShah30&theme=github_dark" width="100%" alt="Profile Details" />
+</p>
+
+<br/>
+
+<p align="center">
+  <i>Open to collaborations, internships, and project partnerships.</i><br/>
+  <strong>Let us build something meaningful.</strong>
 </p>
