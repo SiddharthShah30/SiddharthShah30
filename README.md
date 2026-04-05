@@ -2,10 +2,6 @@
 
 <img src="./assets/header.jpg" width="100%" alt="Siddharth Shah profile banner"/>
 
-<p>
-  <img src="./assets/wave-header.svg" width="100%" alt="animated monochrome wave divider"/>
-</p>
-
 <h1>Siddharth Shah</h1>
 <p><strong>Python Developer</strong> • <strong>Web App Builder</strong> • <strong>AI Explorer</strong></p>
 
@@ -29,13 +25,6 @@
 </p>
 
 </div>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Aesthetic-Monochrome%20Black-000000?style=for-the-badge&logo=github&logoColor=white" alt="theme badge" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-111111?style=for-the-badge&logo=probot&logoColor=white" alt="status badge" />
-</p>
 
 <br/>
 
@@ -65,7 +54,7 @@
 <h2 align="center"><img src="https://img.icons8.com/ios-filled/20/ffffff/layers.png" width="16" alt="highlights icon"/> <em>Quick Highlights</em></h2>
 
 <p align="center">
-  Clean code • Product mindset • Monochrome identity • Collaboration-ready
+  Clean code • Practical projects • Continuous learning • Collaboration-ready
 </p>
 
 <br/>
@@ -87,7 +76,7 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SiddharthShah30&theme=github_dark" height="170" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SiddharthShah30&theme=github_dark&utcOffset=5.5" height="170" alt="Productive Time" />
+  <img src="https://streak-stats.demolab.com?user=SiddharthShah30&theme=dark&background=000000&hide_border=false&border=2b2b2b&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&currStreakLabel=ffffff" height="170" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -96,7 +85,6 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SiddharthShah30&theme=github_dark" height="170" alt="Most Used Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SiddharthShah30&theme=github_dark" height="170" alt="Most Commit Language" />
 </div>
 
 <br/>
@@ -105,14 +93,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiddharthShah30&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%" alt="Contribution Graph" />
-</p>
-
-<br/>
-
-<h2 align="center"><img src="https://img.icons8.com/ios-filled/20/ffffff/overview-pages-3.png" width="16" alt="summary icon"/> <em>Profile Snapshot</em></h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SiddharthShah30&theme=github_dark" width="100%" alt="Profile Details" />
 </p>
 
 <br/>
