@@ -1,7 +1,6 @@
 <div align="center">
   <img src="./assets/header.jpg" width="100%" alt="Siddharth Shah profile banner"/>
 
-  <h1>Siddharth Shah</h1>
   <p><strong>Python Developer</strong> • <strong>Web App Builder</strong> • <strong>AI Explorer</strong></p>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=500&size=18&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=Building+clean+things+in+black+and+white.;Practical+Python+%2B+Web+Projects.;Learning+LLMs+with+real+use-cases." alt="animated subtitle" />
