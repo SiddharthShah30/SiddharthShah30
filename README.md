@@ -44,6 +44,13 @@
 
 <br/>
 
+<h2 align="center"><img src="https://img.icons8.com/ios-filled/20/ffffff/activity-history.png" width="18" alt="Activity"/> <em>Contribution Graph</em></h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiddharthShah30&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%" alt="Contribution Graph" />
+</p>
+
+<br/>
+
 <div align="center">
   <i>Open to collaborations, internships, and project partnerships.</i><br/>
   <strong>Let's build something meaningful.</strong>
